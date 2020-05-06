@@ -1,6 +1,6 @@
 # Image-Caption-Genarator
 
-This project is all about generating caption of images. Flickr_8k dataset was used in this project. All the necessary instruction you will find on the notebook file.   
+This project is all about generating caption of images. Flickr_8k dataset was used in this project. All the necessary instructions you will find on the notebook file.   
 
 ## Dataset Description
 To understand this code, we need to have idea about how the dataset is organized. I have used Flickr8k dataset which can be found on [this](https://www.kaggle.com/ming666/flicker8k-dataset) link. You have to keep the folders Flicker8k_Dataset and Flickr_Text inside the dataset folder.<br>
