@@ -11,4 +11,4 @@ Flickr_8k.devImages.txt --- Contains the names of dev images<br>
 Flickr_8k.testImages.txt --- Contains the names of test images<br>
 
 ## Acknowledgement
-I took help from [this](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/) blog and implement it my own way with some improvement
+I took help from [this](https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/) blog and implement it my own way with some improvement.
